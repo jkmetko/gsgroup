@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/gsgroup":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/gsgroup","hostpath":"C:/wamp/gsgroup","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/wamp/gsgroup","disabled":false,"__vagrantfile":true}}}

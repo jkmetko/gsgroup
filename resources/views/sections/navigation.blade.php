@@ -22,6 +22,7 @@
                         <li><a href="blog_02.html">Ochutnávky</a></li>
                         <li><a href="blog_02.html">Servis zdarma</a></li>
                         <li><a href="blog_02.html">Osobný prístup</a></li>
+                        <li><a href="blog_02.html">Reklamné produkty</a></li>
                     </ul>
                 </li>
                 <li><a class="scroll" href="#history">Ponuka</a></li>

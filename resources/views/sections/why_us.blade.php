@@ -9,13 +9,13 @@
 
         <!-- Iphone images -->
         <div class="w-iphone animated" data-animation="fadeInLeft" data-animation-delay="0">
-            <img src="{{ asset('assets/images/w-iphone.png') }}" alt="wisten-iphone">
+            <img src="{{ asset('assets/images/okamzite-setrenie.png') }}" alt="wisten-iphone">
         </div>
 
         <!-- accordion menu -->
         <div class="accordion" id="accordion2">
 
-            <div class="accordion-head">Why do you choose <span> wisten ?</span></div>
+            <div class="accordion-head">Okamžité <span class="colored-sepia"> šetrenie</span></div>
 
             <!-- accordion menu 1 -->
             <div class="panel">

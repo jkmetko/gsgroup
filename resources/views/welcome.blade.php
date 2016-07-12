@@ -1,27 +1,29 @@
 @extends('layouts.master')
 
 @section('content')
-
     <!-- Services Section -->
     @include('sections.services')
+
+    <!-- Why us Section -->
+    @include('sections.why_us')
+
+    <!-- Why us Section -->
+    @include('sections.starostlivost')
 
     <!-- About Section -->
     @include('sections.about')
 
     <!-- Features Section -->
-    @include('sections.features')
+    {{--@include('sections.features')--}}
 
     <!-- Skills Section -->
-    @include('sections.skills')
+{{--    @include('sections.skills')--}}
 
     <!-- History Section -->
-    @include('sections.history')
+{{--    @include('sections.history')--}}
 
     <!-- Our Team Section -->
     @include('sections.our_team')
-
-    <!-- Why us Section -->
-    @include('sections.why_us')
 
     <!-- Portfolio Section -->
     @include('sections.portfolio')

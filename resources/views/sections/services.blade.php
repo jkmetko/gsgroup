@@ -9,12 +9,13 @@
 
             <!-- Header -->
             <div class="header">
-                Our Services
+                Naše Služby
             </div>
 
             <!-- Second Header -->
             <div class="page-desc">
-                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+                GS Group ponúka kompletný gastro servis pre podniky. Od nealkoholických nápojov, cez pivo a alkohol, po bezplatnú starostlivosť (sanitácia výčapných zariadení, nadštandartná podpora, a pod.). Všetky služby sú poskytované
+                za úžasných podmienok, pri ktorých okamžite šetríte nie len v nákupe, a to bez počiatočnej investície.
             </div>
 
             <ul class="service-contents slide-boxes">

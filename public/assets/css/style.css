@@ -1443,10 +1443,11 @@
 		-webkit-transition: all 0.2s;
 		-moz-transition: all 0.2s;
 		transition: all 0.2s;
+		border-bottom:8px solid #fff ;
 	}
 
 	.owl-item .item img{
-		border:4px solid #f4f4f4;
+		/*border:4px solid #f4f4f4;*/
 	}
 
 	.owl-item .item h3{
@@ -1547,8 +1548,8 @@
 	}
 
 	.owl-item .item:hover{
-		background:#3c3c3c;
-		border-bottom:4px solid #3a336f ;
+		background:#D76429;
+		border-bottom:8px solid #3a336f ;
 	}
 
 	.owl-item .item:hover  h3 {

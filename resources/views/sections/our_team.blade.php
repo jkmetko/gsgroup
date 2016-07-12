@@ -4,112 +4,81 @@
 
         <!-- Header -->
         <div class="header ">
-            Our Creative Team
+            Ponuka produktov
         </div>
 
         <!-- Second Header -->
         <div class="page-desc ">
-            Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+            Pozrite si našu interaktívne portfolio. Po kliknutí na kategóriu sa Vám zobrazí cenník, v ktorom môžte porovnať svoj nákup s nakúpom prostredníctvom našej partnerskej služby.
         </div>
 
 
         <div class="team-items slide-boxes">
 
             <div class="item animated" data-animation="flipInY" data-animation-delay="0">
-                <img src="{{ asset('assets/images/team/1.jpg') }}" alt="" class="img-circle" />
+                <img src="{{ asset('assets/images/pivo.png') }}" alt="" />
                 <h3>adriana doen</h3>
                 <h4>Photogropher</h4>
                 <p>Contrary popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of literature</p>
 
-                <div class="socials">
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-instagram"></i></a>
-                    <a href=""><i class="fa fa-pinterest"></i></a>
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                </div>
+                {{--<div class="socials">--}}
+                    {{--<a href=""><i class="fa fa-facebook"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-instagram"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-pinterest"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-twitter"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-google-plus"></i></a>--}}
+                {{--</div>--}}
 
             </div>
 
 
             <div class="item animated" data-animation="flipInY" data-animation-delay="300">
-                <img src="{{ asset('assets/images/team/2.jpg') }}" alt="" class="img-circle" />
+                <img src="{{ asset('assets/images/napoje.png') }}" alt=""/>
                 <h3>Julia amanda</h3>
                 <h4>web designer</h4>
                 <p>Contrary popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of literature</p>
 
-                <div class="socials">
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-instagram"></i></a>
-                    <a href=""><i class="fa fa-pinterest"></i></a>
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                </div>
+                {{--<div class="socials">--}}
+                    {{--<a href=""><i class="fa fa-facebook"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-instagram"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-pinterest"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-twitter"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-google-plus"></i></a>--}}
+                {{--</div>--}}
 
             </div>
 
             <div class="item animated" data-animation="flipInY" data-animation-delay="600">
-                <img src="{{ asset('assets/images/team/3.jpg') }}" alt="" class="img-circle" />
-                <h3>alexa Roberts</h3>
-                <h4>human resources</h4>
-                <p>Contrary popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of literature</p>
-
-                <div class="socials">
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-instagram"></i></a>
-                    <a href=""><i class="fa fa-pinterest"></i></a>
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                </div>
-
-            </div>
-
-            <div class="item animated" data-animation="flipInY" data-animation-delay="900">
-                <img src="{{ asset('assets/images/team/4.jpg') }}" alt="" class="img-circle" />
+                <img src="{{ asset('assets/images/pochutiny.png') }}" alt="" />
                 <h3>alondra Chelse</h3>
                 <h4>Photogropher</h4>
                 <p>Contrary popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of literature</p>
 
-                <div class="socials">
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-instagram"></i></a>
-                    <a href=""><i class="fa fa-pinterest"></i></a>
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                </div>
+                {{--<div class="socials">--}}
+                    {{--<a href=""><i class="fa fa-facebook"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-instagram"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-pinterest"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-twitter"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-google-plus"></i></a>--}}
+                {{--</div>--}}
 
             </div>
 
-            <div class="item animated" data-animation="flipInY" data-animation-delay="800">
-                <img src="{{ asset('assets/images/team/1.jpg') }}" alt="" class="img-circle" />
+            <div class="item animated" data-animation="flipInY" data-animation-delay="900">
+                <img src="{{ asset('assets/images/reklamne-predmety.png') }}" alt="" />
                 <h3>adriana doen</h3>
                 <h4>Photogropher</h4>
                 <p>Contrary popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of literature</p>
 
-                <div class="socials">
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-instagram"></i></a>
-                    <a href=""><i class="fa fa-pinterest"></i></a>
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                </div>
+                {{--<div class="socials">--}}
+                    {{--<a href=""><i class="fa fa-facebook"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-instagram"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-pinterest"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-twitter"></i></a>--}}
+                    {{--<a href=""><i class="fa fa-google-plus"></i></a>--}}
+                {{--</div>--}}
 
             </div>
-
-            <div class="item animated" data-animation="flipInY" data-animation-delay="1000">
-                <img src="{{ asset('assets/images/team/2.jpg') }}" alt="" class="img-circle" />
-                <h3>Julia amanda</h3>
-                <h4>web designer</h4>
-                <p>Contrary popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of literature</p>
-
-                <div class="socials">
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-instagram"></i></a>
-                    <a href=""><i class="fa fa-pinterest"></i></a>
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                </div>
-
             </div>
 
         </div>

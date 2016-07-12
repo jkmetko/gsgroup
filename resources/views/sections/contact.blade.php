@@ -7,15 +7,15 @@
         <form id="contact-us" method="post" action="php/mail.php">
 
             <!--Contact Header -->
-            <h1 class="contact-us">Contact Us</h1>
+            <h1 class="contact-us">Kontaktujte nás</h1>
             <!-- Name Input -->
-            <input type="text" name="name" id="name" required="required" class="form" placeholder="Name" />
+            <input type="text" name="name" id="name" required="required" class="form" placeholder="Meno a priezvisko" />
             <!-- Email Input -->
-            <input type="email" name="email" id="email" required="required" class="form" placeholder="Email" />
+            <input type="email" name="email" id="email" required="required" class="form" placeholder="E-mail" />
             <!-- Subject Input -->
-            <input type="text" name="subject" id="subject" class="form" placeholder="Subject" />
+            <input type="text" name="subject" id="subject" class="form" placeholder="Predmet" />
             <!-- Message Area -->
-            <textarea name="message" id="message" class="form textarea"  placeholder="Message"></textarea>
+            <textarea name="message" id="message" class="form textarea"  placeholder="Správa"></textarea>
             <!-- Send Button -->
             <button type="submit" id="submit" name="submit" class="form-btn"><i class="fa fa-envelope"></i></button>
 
@@ -29,7 +29,7 @@
     </div>
 
     <!-- Google Map -->
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyD5mdJpIA8w2rQMBYia9A3_sDLkLt4Pt48"></script>
     <div id="map"></div>
     <!-- End Google Map -->
 

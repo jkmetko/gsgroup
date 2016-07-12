@@ -14,18 +14,17 @@
             <ul class="nav main-nav">
 
                 <li class="active"><a class="scroll" href="#home">Domov</a></li>
-                <li><a class="scroll" href="#about">O nás</a></li>
+                <li><a class="scroll" href="#services">O nás</a></li>
+                <li><a class="scroll" href="#team">Produkty</a></li>
                 <li class="dropdown-toggle nav-toggle"><a class="scroll" href="blog.html">Služby <b data-toggle="dropdown" class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a href="blog.html">Okamžité šetrenie</a></li>
-                        <li><a href="blog_01.html">Starostlivosť</a></li>
-                        <li><a href="blog_02.html">Ochutnávky</a></li>
-                        <li><a href="blog_02.html">Servis zdarma</a></li>
-                        <li><a href="blog_02.html">Osobný prístup</a></li>
-                        <li><a href="blog_02.html">Reklamné produkty</a></li>
+                        <li><a class="scroll" href="#why-wisten">Okamžité šetrenie</a></li>
+                        <li><a class="scroll" href="#why-wisten2">Starostlivosť</a></li>
+                        <li><a class="scroll" href="#why-wisten3">Ochutnávky</a></li>
+                        <li><a class="scroll" href="#why-wisten4">Servis zdarma</a></li>
+                        <li><a class="scroll" href="#why-wisten5">Reklamné produkty</a></li>
                     </ul>
                 </li>
-                <li><a class="scroll" href="#history">Ponuka</a></li>
                 <li><a class="scroll" href="#history">Servis</a></li>
                 {{--<li class="dropdown-toggle nav-toggle"><a class="scroll" href="blog.html">blog <b data-toggle="dropdown" class="caret"></b></a>--}}
 

@@ -1,4 +1,4 @@
-<section id="footer">
+<section id="footer" class="colored-bg-sepia">
 
     <div class="inner footer">
 
@@ -9,7 +9,9 @@
             </a>
 
             <p class="footer-text">
-                <span>Phone</span>:<span>(123) 456-7890</span>
+                <span>Tel:</span>:<span>+421 901 111 111</span>
+                <br>
+                <span>Tel:</span>:<span>+421 902 222 222</span>
             </p>
         </div>
 
@@ -38,12 +40,12 @@
 
             <!-- Mail -->
             <p class="footer-text">
-                <span>Mail</span>:<span><a href="mailto:support@goldeyestheme.com">support@goldeyestheme.com</a></span>
+                <span>E-mail:</span>:<span><a href="mailto:info@gsgroup.sk">info@gsgroup.sk</a></span>
             </p>
 
             <!-- Copyright -->
             <p class="footer-text copyright">
-                �2014 wisten. all rights reserved.
+                © 2016 H&D Holding. všetky práva vyhradené.
             </p>
         </div>
 
@@ -56,7 +58,8 @@
             </a>
 
             <p class="footer-text">
-                1234 Street Name, City Name
+                Zadunajská cesta 1,<br>
+                831 01, Bratislava
             </p>
         </div>
 

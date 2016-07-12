@@ -271,7 +271,7 @@ window.onload = function () {
 
 			'use strict';
 
-			var latlng = new google.maps.LatLng(18.411378,-66.102344);
+			var latlng = new google.maps.LatLng(48.129366, 17.103094);
 
 			var styles = [ 
 
@@ -331,9 +331,9 @@ window.onload = function () {
 			
 			var map = new google.maps.Map(document.getElementById('map'), myOptions);
 			
-			var myLatlng = new google.maps.LatLng(18.411378,-66.102344);
+			var myLatlng = new google.maps.LatLng(48.129366, 17.103094);
 			
-			var image = 'images/marker.png';
+			var image = 'assets/images/marker.png';
 			var marker = new google.maps.Marker({
 				  position: myLatlng,
 				  map: map,

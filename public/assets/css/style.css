@@ -1416,7 +1416,9 @@
 /* Our Team */
 
 	#team{
-		padding:60px 0 0;
+		margin:50px auto 0;
+		background:url(../images/i6.jpg) center fixed;
+		padding:0 0 30px;
 	}
 
 	.team-items{
@@ -1443,7 +1445,7 @@
 		-webkit-transition: all 0.2s;
 		-moz-transition: all 0.2s;
 		transition: all 0.2s;
-		border-bottom:8px solid #fff ;
+		border-bottom:8px solid rgba(255,255,255,0) ;
 	}
 
 	.owl-item .item img{
@@ -1596,8 +1598,26 @@
 /* Why Wisten */
 
 	#why-wisten{
-		margin:50px auto 0;
-		background:url(../images/i3.jpg) center fixed;
+		margin:0 auto 0;
+		/*background:url(../images/i3.jpg) center fixed;*/
+		padding:0 0 30px;
+	}
+
+	#why-wisten2{
+		margin:0 auto 0;
+		background:url(../images/i5.jpg) center fixed;
+		padding:0 0 30px;
+	}
+
+	#why-wisten4{
+		margin:0 auto 0;
+		background:url(../images/i6.jpg) center fixed;
+		padding:0 0 30px;
+	}
+
+	#why-wisten5{
+		margin:0 auto 0;
+		/*background:url(../images/i4.jpg) center fixed;*/
 		padding:0 0 30px;
 	}
 
@@ -1893,7 +1913,7 @@
 	}
 
 	#services .bg{
-		background:url(../images/i4.jpg) top center fixed;
+		background:url(../images/i1.jpg) top center fixed;
 	}
 
 	.service-contents{
@@ -1927,7 +1947,7 @@
 		transition: all 0.3s;
 	}
 	.box a:after{
-		border:1px solid #494949;
+		border:1px solid #d67c45;
 		content:'';
 		width:100px;
 		height:100px;
@@ -1971,7 +1991,12 @@
 /* Service Hovers*/
 
 	.box:hover a.service-logo{
-		background:#494949;
+		/*background:#494949;*/
+		background: #d67c45; /* Old browsers */
+		background: -moz-linear-gradient(top,  #d67c45 0%, #d76429 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(top,  #d67c45 0%,#d76429 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(to bottom,  #d67c45 0%,#d76429 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d67c45', endColorstr='#d76429',GradientType=0 ); /* IE6-9 */
 	}
 
 	.box:hover a.service-logo i{
@@ -2308,7 +2333,7 @@
 		width:100px;
 		height:100px;
 		border-radius:100%;
-		background:#3d3d3d;
+		/*background:#3d3d3d;*/
 		position:relative;
 		text-align:center;
 		padding:35px 0;
@@ -2320,8 +2345,7 @@
 	   position: absolute;
 	   left: 97%;
 	   top: 50%;
-	   border-left: 11px solid black;
-	   border-left-color: #3d3d3d; 
+	   border-left: 11px solid #d67037;
 	   border-top: 11px solid transparent;
 	   border-bottom: 11px solid transparent; 
 	   -webkit-transform: translateY(-50%);
@@ -2345,17 +2369,17 @@
 		margin:20px auto 10px;
 		text-transform:uppercase;
 		font-size:27px;
-		color:#484541;
+		color: #ffffff;
 		font-weight:400;
 	}
 
 	.subs .text h1 span{
-		color:#3a336f;
+		color: #d77037;
 	}
 
 	.subs .text p{
 		font-size:15px;
-		color:#484541;
+		color: #fff5e8;
 		font-weight:300;
 		text-transform:uppercase;
 	}
@@ -2387,7 +2411,7 @@
 		font-weight:400;
 		top:2px;
 		font-size:20px;
-		background:#313131;
+		background:#D76429;
 		-webkit-transition: all 0.3s;
 		-moz-transition: all 0.3s;
 		transition: all 0.3s;
@@ -2559,7 +2583,7 @@
 /* Footer */
 
 	#footer{
-		background:#131313;
+		/*background:#131313;*/
 	}
 
 	.footer{
@@ -2578,33 +2602,45 @@
 
 	.footer-links{
 		display:inline-block;
-		border:1px solid #494949;
+		border:1px solid #ffffff;
 		border-radius:100px;
 		margin:0 3px;
+		-webkit-transition: all 0.3s;
+		-moz-transition: all 0.3s;
+		transition: all 0.3s;
 	}
 
 	.footer-links i{
 		font-size:25px;
-		color:#494949;
+		color: #ffffff;
 		display:block;
 		width:35px;
 		height:35px;
 		line-height:38px;
+		-webkit-transition: all 0.3s;
+		-moz-transition: all 0.3s;
+		transition: all 0.3s;
 	}
 
 	.footer-text{
 		margin:10px 0 0 0;
-		color:#868686;
+		color: #ffffff;
 		font-size:15px;
 		font-weight:300;
+		-webkit-transition: all 0.3s;
+		-moz-transition: all 0.3s;
+		transition: all 0.3s;
 	}
 
 	.footer-text span{
 		margin:0 5px;
+		-webkit-transition: all 0.3s;
+		-moz-transition: all 0.3s;
+		transition: all 0.3s;
 	}
 
 	.footer-text a{
-		color:#868686;
+		color: #FFFFFF;
 	}
 
 	.copyright{
@@ -2617,11 +2653,11 @@
 	}
 
 	.footer a:hover{
-		color:white;
+		color: #2D2766;
 	}
 
 	.footer a:hover i{
-		color:white;
+		color: #2D2766;
 	}
 
 /* Blog */

@@ -22,47 +22,39 @@
 
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="0">
                     <a href="" class="service-logo">
-                        <i class="fa fa-camera"></i>
+                        <i class="fa fa-euro"></i>
                     </a>
-                    <h3>Design</h3>
+                    <h3>Okamžité šetrenie</h3>
                     <p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>
                 </li>
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="200">
                     <a href="" class="service-logo">
-                        <i class="fa fa-desktop"></i>
+                        <i class="fa fa-link"></i>
                     </a>
-                    <h3>Photography</h3>
+                    <h3>Starostlivosť</h3>
                     <p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>
                 </li>
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="400">
                     <a href="" class="service-logo">
                         <i class="fa fa-coffee"></i>
                     </a>
-                    <h3>HTML</h3>
+                    <h3>Ochutnávky</h3>
                     <p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>
                 </li>
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="600">
                     <a href="" class="service-logo">
-                        <i class="fa fa-globe"></i>
+                        <i class="fa fa-phone"></i>
                     </a>
-                    <h3>Wordpress</h3>
+                    <h3>Servis zdarma</h3>
                     <p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>
                 </li>
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="800">
                     <a href="" class="service-logo">
-                        <i class="fa fa-gear"></i>
+                        <i class="fa fa-pencil"></i>
                     </a>
-                    <h3>Social</h3>
+                    <h3>Reklamné produkty</h3>
                     <p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>
                 </li>
-                <li class="service box animated" data-animation="flipInY" data-animation-delay="1000">
-                    <a href="" class="service-logo">
-                        <i class="fa fa-heart"></i>
-                    </a>
-                    <h3>Support</h3>
-                    <p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>
-                </li>
-
 
             </ul>
 
@@ -83,21 +75,21 @@
                 <!-- Service First Text -->
                 <div class="item active">
                     <div class="service-bottom-text">
-                        responsive and  <span>clean</span>  design
+                        Raz týždenne  <span>závoz</span>
                     </div>
                 </div>
 
                 <!-- Service Second Text -->
                 <div class="item">
                     <div class="service-bottom-text">
-                        modern and <span>creative</span> design
+                        Raz mesačne <span>sanitácia</span> zdarma
                     </div>
                 </div>
 
                 <!-- Service Third Text -->
                 <div class="item">
                     <div class="service-bottom-text">
-                        it's wisten <span>time</span>
+                        Starostlivosť <span>24/7</span>
                     </div>
                 </div>
 

@@ -14,46 +14,48 @@
 
             <!-- Second Header -->
             <div class="page-desc">
-                GS Group ponúka kompletný gastro servis pre podniky. Od nealkoholických nápojov, cez pivo a alkohol, po bezplatnú starostlivosť (sanitácia výčapných zariadení, nadštandartná podpora, a pod.). Všetky služby sú poskytované
-                za úžasných podmienok, pri ktorých okamžite šetríte nie len v nákupe, a to bez počiatočnej investície.
+                Sme gastro spoločnosť, ktorá sa zameriava na dodávanie a sprostredkovanie vysoko kvalitných produktov pre kaviarne, bary a reštaurácie. Vďaka tvrdej práci a nadštandardným vzťahom sme pre vás získali nadštandardné ceny. Mnohým prevádzkam sme pomohli zefektívniť ich ponuku a ušetriť tak ročne nemalé prostriedky. Tieto skúsenosti z terénu nám postupne upravili naše portfólio na to aktuálne a preto ručíme za vašu spokojnosť.
+                <br>
+                <br>
+                Pomáhame našim klientom naplno využívať ich potenciál a rásť. Na osobnom stretnutí nie len prepočítame, koľko by ste na aktuálnych objednávkach vedeli ušetriť, ale aj navrhneme najvhodnejšie objemy pre plynulý pohyb tovaru, ako predísť zbytočným skladovým zásobám, komplexne zastrešiť ponuku a dokonca preberieme možnosti marketingovej podpory. Pôsobíme na celom západnom Slovensku prostredníctvom tímu obchodných zástupcov, ktorí sú vám kedykoľvek k dispozícii. Tešíme sa na spoluprácu.
             </div>
 
             <ul class="service-contents slide-boxes">
 
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="0">
-                    <a href="" class="service-logo">
+                    <a href="#" class="service-logo">
                         <i class="fa fa-euro"></i>
                     </a>
                     <h3>Okamžité šetrenie</h3>
-                    <p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>
+                    {{--<p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>--}}
                 </li>
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="200">
-                    <a href="" class="service-logo">
+                    <a href="#" class="service-logo">
                         <i class="fa fa-link"></i>
                     </a>
                     <h3>Starostlivosť</h3>
-                    <p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>
+                    {{--<p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>--}}
                 </li>
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="400">
-                    <a href="" class="service-logo">
+                    <a href="#" class="service-logo">
                         <i class="fa fa-coffee"></i>
                     </a>
                     <h3>Ochutnávky</h3>
-                    <p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>
+                    {{--<p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>--}}
                 </li>
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="600">
-                    <a href="" class="service-logo">
+                    <a href="#" class="service-logo">
                         <i class="fa fa-phone"></i>
                     </a>
                     <h3>Servis zdarma</h3>
-                    <p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>
+                    {{--<p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>--}}
                 </li>
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="800">
-                    <a href="" class="service-logo">
+                    <a href="#" class="service-logo">
                         <i class="fa fa-pencil"></i>
                     </a>
                     <h3>Reklamné produkty</h3>
-                    <p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>
+                    {{--<p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>--}}
                 </li>
 
             </ul>

@@ -1,4 +1,4 @@
-<section id="why-wisten3" class="contain parallax">
+<section id="why-wisten5" class="contain parallax">
     <div class="container">
 
         <div class="inner">
@@ -20,18 +20,11 @@
 
                 <!-- accordion menu 1 -->
                 <div class="panel">
-                    <div class="accordion-heading">
-                        <a class="accordion-toggle">
-
-                            <i class="fa fa-check"></i>
-                            Contrary to popular belief, Lorem Ipsum is not simply random text.
-                        </a>
-                    </div>
                     <div id="coll-six" class="accordion-body collapse in">
-                        <div class="accordion-inner">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.Type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.Type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
-                            But also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
+                        <div>
+                            Ako povedal Henry Ford - "Keby som mal posledných päť dolárov, tak tri z nich venujem na reklamu.” Nemá význam mať skvelú ponuku, pokiaľ o nej nik nevie. U nás sa promovanie nepodceňuje. Propagačné materiály rôznych veľkostí a foriem podporia váš predaj a upriamia pozornosť práve na to, čo je pre vás prioritné. Tieto materiály nie len zabezpečíme, ale poradíme s výberom a umiestnením. Už vám neunikne žiadna novinka a váš podnik bude neustále v súlade s poslednými trendmi.
+                            <br>
+                            <br>
                         </div>
                     </div>
                 </div>

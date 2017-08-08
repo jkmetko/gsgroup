@@ -20,18 +20,11 @@
 
                 <!-- accordion menu 1 -->
                 <div class="panel">
-                    <div class="accordion-heading">
-                        <a class="accordion-toggle">
-
-                            <i class="fa fa-check"></i>
-                            Contrary to popular belief, Lorem Ipsum is not simply random text.
-                        </a>
-                    </div>
                     <div id="coll-six" class="accordion-body collapse in">
-                        <div class="accordion-inner">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.Type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.Type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
-                            But also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
+                        <div>
+                            Váš názor je pre nás podstatný a preto našich klientov pravidelne pozývame na ochutnávky. Naše produkty si tak viete sami odskúšať a poskytnúť nám cennú spätnú väzbu, na základe ktorej sa vieme zlepšovať a upravovať portfólio tak, aby vám čo najviac vyhovovalo. Pri ochutnávkach vás s produktom detailne oboznámime. Jeho výhody či jedinečnosť tak budete vedieť efektívne komunikovať aj svojim zákazníkom, ktorí určite ocenia pomoc pri výbere nápoja, či vašu zbehlosť vo fachu.
+                            <br>
+                            <br>
                         </div>
                     </div>
                 </div>

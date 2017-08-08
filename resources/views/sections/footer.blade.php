@@ -9,9 +9,9 @@
             </a>
 
             <p class="footer-text">
-                <span>Tel:</span>:<span>+421 901 111 111</span>
+                <span>Tel:</span>:<span>+421 917 640 302</span>
                 <br>
-                <span>Tel:</span>:<span>+421 902 222 222</span>
+                <span>Tel:</span>:<span>+421 904 996 328</span>
             </p>
         </div>
 
@@ -45,7 +45,7 @@
 
             <!-- Copyright -->
             <p class="footer-text copyright">
-                © 2016 H&D Holding. všetky práva vyhradené.
+                © {{ Carbon\Carbon::now()->format('Y') }} H&D Holding | všetky práva vyhradené.
             </p>
         </div>
 

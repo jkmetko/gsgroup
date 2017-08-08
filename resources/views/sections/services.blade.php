@@ -2,7 +2,7 @@
     <div class="services bg parallax2">
         <div class="inner services">
 
-            <!-- why-wisten Top Icon -->
+            <!-- Top Icon -->
             <div class="contain-logo br">
                 <i class="fa fa-cogs "></i>
             </div>
@@ -23,39 +23,39 @@
             <ul class="service-contents slide-boxes">
 
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="0">
-                    <a href="#" class="service-logo">
+                    <a href="#why-wisten" class="service-logo scroll">
                         <i class="fa fa-euro"></i>
                     </a>
                     <h3>Okamžité šetrenie</h3>
-                    {{--<p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>--}}
+                    <p>Vďaka našim cenám okamžite znížite náklady na rovnaký objem tovaru, ktorý ste doteraz objednávali. Naše portfólio je starostlivo zostavené tak, aby profitovali obe strany - vy, ako poskytovateľ, aj zákazník, ako konečný spotrebiteľ. Obsahuje komplexnú ponuku pre každý bar, reštauráciu či kaviareň, ktorá chce poskytovať tie najlepšie produkty, pričom táto je cenovo prispôsobená tak, aby Vám priniesla okamžité šetrenie. Kontaktujte nášho obchodného zástupcu, ktorý vám osobne pomôže prepočítať, akú sumu by ste ušetrili hneď len tým, že budete objednávať produkty u nás. A to nie je všetko, nasledujú ďalšie služby, vďaka ktorým bude váš biznis rásť.</p>
                 </li>
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="200">
-                    <a href="#" class="service-logo">
+                    <a href="#why-wisten2" class="service-logo scroll">
                         <i class="fa fa-link"></i>
                     </a>
                     <h3>Starostlivosť</h3>
-                    {{--<p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>--}}
+                    <p>Našich klientov si starostlivo vážime a vieme, že individuálny prístup je kľúčom k úspechu. Každý podnik prechádza inou fázou vývoja, má rôznu klientelu a my vieme reagovať na vaše potreby tak, aby ste boli spokojní. Postaráme sa o hladký tok vášho tovaru nastavením vhodných objemov nákupu, ktoré vieme operatívne prispôsobovať situácii. Sme vám k dispozícii 24/7.</p>
                 </li>
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="400">
-                    <a href="#" class="service-logo">
+                    <a href="#why-wisten3" class="service-logo scroll">
                         <i class="fa fa-coffee"></i>
                     </a>
                     <h3>Ochutnávky</h3>
-                    {{--<p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>--}}
+                    <p>Váš názor je pre nás podstatný a preto našich klientov pravidelne pozývame na ochutnávky. Naše produkty si tak viete sami odskúšať a poskytnúť nám cennú spätnú väzbu, na základe ktorej sa vieme zlepšovať a upravovať portfólio tak, aby vám čo najviac vyhovovalo. Pri ochutnávkach vás s produktom detailne oboznámime. Jeho výhody či jedinečnosť tak budete vedieť efektívne komunikovať aj svojim zákazníkom, ktorí určite ocenia pomoc pri výbere nápoja, či vašu zbehlosť vo fachu.</p>
                 </li>
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="600">
-                    <a href="#" class="service-logo">
+                    <a href="#why-wisten4" class="service-logo scroll">
                         <i class="fa fa-phone"></i>
                     </a>
                     <h3>Servis zdarma</h3>
-                    {{--<p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>--}}
+                    <p>Realizovaním objednávky sa naša úloha nekončí. V rámci našich služieb máte aj bezplatný servis, ako napr. sanitácia výčapného zariadenia.</p>
                 </li>
                 <li class="service box animated" data-animation="flipInY" data-animation-delay="800">
-                    <a href="#" class="service-logo">
+                    <a href="#why-wisten5" class="service-logo scroll">
                         <i class="fa fa-pencil"></i>
                     </a>
                     <h3>Reklamné produkty</h3>
-                    {{--<p>Contrary to popular belief, not simply random text. It has roots in a of Latin from 45 BC, 2000 years old.</p>--}}
+                    <p>Ako povedal Henry Ford - "Keby som mal posledných päť dolárov, tak tri z nich venujem na reklamu.” Nemá význam mať skvelú ponuku, pokiaľ o nej nik nevie. U nás sa promovanie nepodceňuje. Propagačné materiály rôznych veľkostí a foriem podporia váš predaj a upriamia pozornosť práve na to, čo je pre vás prioritné. Tieto materiály nie len zabezpečíme, ale poradíme s výberom a umiestnením. Už vám neunikne žiadna novinka a váš podnik bude neustále v súlade s poslednými trendmi. </p>
                 </li>
 
             </ul>
@@ -77,7 +77,7 @@
                 <!-- Service First Text -->
                 <div class="item active">
                     <div class="service-bottom-text">
-                        Raz týždenne  <span>závoz</span>
+                        4 krát týždenne  <span>závoz</span>
                     </div>
                 </div>
 
